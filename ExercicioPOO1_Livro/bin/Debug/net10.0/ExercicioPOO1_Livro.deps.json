@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExercicioPOO1_Livro/1.0.0": {
+        "runtime": {
+          "ExercicioPOO1_Livro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioPOO1_Livro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
