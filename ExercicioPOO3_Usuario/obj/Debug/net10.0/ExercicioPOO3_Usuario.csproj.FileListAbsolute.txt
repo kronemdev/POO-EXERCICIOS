@@ -1,0 +1,15 @@
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\bin\Debug\net10.0\ExercicioPOO3_Usuario.exe
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\bin\Debug\net10.0\ExercicioPOO3_Usuario.deps.json
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\bin\Debug\net10.0\ExercicioPOO3_Usuario.runtimeconfig.json
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\bin\Debug\net10.0\ExercicioPOO3_Usuario.dll
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\bin\Debug\net10.0\ExercicioPOO3_Usuario.pdb
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.AssemblyInfoInputs.cache
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.AssemblyInfo.cs
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.csproj.CoreCompileInputs.cache
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.dll
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\refint\ExercicioPOO3_Usuario.dll
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.pdb
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ExercicioPOO3_Usuario.genruntimeconfig.cache
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\ref\ExercicioPOO3_Usuario.dll
+C:\Users\kronem\Documents\estudos\ExercicioPOO3_Usuario\obj\Debug\net10.0\Exercici.01AB1801.Up2Date
