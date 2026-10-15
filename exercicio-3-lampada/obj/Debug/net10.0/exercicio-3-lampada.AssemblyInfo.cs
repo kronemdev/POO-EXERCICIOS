@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicio-3-lampada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+738780df994b623668e445d541295a44025d9c3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b3f721978e0082b2b8557b304f5a4af60fbb81")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicio-3-lampada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicio-3-lampada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

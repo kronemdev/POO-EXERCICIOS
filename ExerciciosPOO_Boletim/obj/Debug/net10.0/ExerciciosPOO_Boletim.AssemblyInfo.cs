@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciciosPOO_Boletim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b3f721978e0082b2b8557b304f5a4af60fbb81")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciciosPOO_Boletim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciciosPOO_Boletim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

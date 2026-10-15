@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicioPOO02.4_Cofrinho")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee9f230d393addc8fe060249e130be4919878483")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24b3f721978e0082b2b8557b304f5a4af60fbb81")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicioPOO02.4_Cofrinho")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicioPOO02.4_Cofrinho")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
