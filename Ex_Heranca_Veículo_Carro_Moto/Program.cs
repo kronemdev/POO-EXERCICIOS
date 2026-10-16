@@ -1,6 +1,6 @@
 ﻿using Ex_Heranca02;
 
-Console.WriteLine("======================   FIXA DO CARRO   ================================");
+Console.WriteLine("======================   FICHA DO CARRO   ================================");
 Console.WriteLine(" ");
 Console.Write("Digite a Marca do carro: ");
 string marca = Console.ReadLine();
@@ -14,7 +14,7 @@ Console.WriteLine(" ");
 Carro carro = new Carro(marca,modelo,portas);
 
 Console.WriteLine(" ");
-Console.WriteLine("======================   FIXA DA MOTO   ================================");
+Console.WriteLine("======================   FICHA DA MOTO   ================================");
 
 Console.Write("Digite a Marca da Moto: ");
 string marcaMoto = Console.ReadLine();
