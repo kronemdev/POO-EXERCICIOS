@@ -1,1 +1,14 @@
-﻿
+﻿using Ex_Abstracao_Formas;
+Console.Write("Entre com o Valor do Lado: ");
+double lado = double.Parse(Console.ReadLine());
+Console.WriteLine(" ");
+Console.Write("Entre com o Valor da Largura: ");
+double largura = double.Parse(Console.ReadLine());
+Console.WriteLine(" ");
+Console.Write("Entre com o Valor da Altura: ");
+double altura = double.Parse(Console.ReadLine());
+Quadrado quadrado = new Quadrado(lado);
+Retangulo retangulo = new Retangulo(largura,altura);
+Console.WriteLine(" ");
+Console.WriteLine($"Quadrado: {quadrado.CalcularArea()}");
+Console.WriteLine($"Retângulo: {retangulo.CalcularArea()}");

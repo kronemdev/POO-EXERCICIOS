@@ -6,6 +6,6 @@ namespace Ex_Abstracao_Formas
 {
     internal interface IForma
     {
-        double CalcularArea();
+        double CalcularArea(); // metodo
     }
 }
