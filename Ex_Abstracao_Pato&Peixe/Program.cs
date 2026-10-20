@@ -4,7 +4,7 @@ Pato pato = new Pato();
 Peixe peixe = new Peixe();
 
 pato.Voar();
-Console.WriteLine(" ");
+Console.WriteLine();
 pato.Nadar();
-Console.WriteLine(" ");
+Console.WriteLine();
 peixe.Nadar();
